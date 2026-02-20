@@ -1,0 +1,9 @@
+{
+  "name": "onyx-key-system",
+  "version": "1.0.0",
+  "description": "Onyx key system & nametag API — Vercel serverless",
+  "private": true,
+  "dependencies": {
+    "@upstash/redis": "^1.34.0"
+  }
+}
