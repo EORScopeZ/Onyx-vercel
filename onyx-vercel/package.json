@@ -1,9 +1,0 @@
-{
-  "name": "onyx-key-system",
-  "version": "1.0.0",
-  "description": "Onyx key system & nametag API — Vercel serverless",
-  "private": true,
-  "dependencies": {
-    "@vercel/kv": "^2.0.0"
-  }
-}
